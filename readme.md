@@ -20,4 +20,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)<br/>
-![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision)
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=Bagging-Classification-Project-Based,computer-vision)
