@@ -1,6 +1,11 @@
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&theme=dark&show_icons=true) -->
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&show_icons=true&hide_title=true&include_all_commits=true&bg_color=00000000) -->
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)
+
 # 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -16,8 +21,3 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)<br/>
-![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision)
