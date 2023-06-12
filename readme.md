@@ -1,12 +1,12 @@
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&theme=dark&show_icons=true) -->
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&show_icons=true&hide_title=true&include_all_commits=true&bg_color=00000000) -->
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
 ![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
