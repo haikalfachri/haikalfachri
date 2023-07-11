@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
-![TOPLANG](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision)<br/>
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision,Bagging-Classification-Project-Based)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)
 
 ## 💻 Tech Stack:
