@@ -2,9 +2,9 @@
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&show_icons=true&hide_title=true&include_all_commits=true&bg_color=00000000) -->
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
-![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=hklfach&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision,Bagging-Classification-Project-Based)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hklfach&hide_border=false&theme=transparent)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=haikalfachri&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
+![TOPLANG](https://github-readme-stats.vercel.app/api/top-langs/?username=haikalfachri&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&exclude_repo=computer-vision,yolov7-computer-vision,Bagging-Classification-Project-Based)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=haikalfachri&hide_border=false&theme=transparent)
 
 ## 💻 Tech Stack:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
