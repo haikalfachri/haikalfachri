@@ -1,6 +1,12 @@
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&theme=dark&show_icons=true) -->
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&show_icons=true&hide_title=true&include_all_commits=true&bg_color=00000000) -->
-<h3 align="start">Hi 👋, I'm Muhamad Fachri Haikal</h3>
+<h3 align="start">Hi there👋, I'm Muhamad Fachri Haikal</h3>
+<ul>
+  <li>🎓 I'm currently a final year of informatics / computer science student at Telkom University</li>
+  <li>🔭 I have interest in backend development and machine learning</li>
+  <li>🧑🏻‍💻 I'm looking forward to learn more about any State-of-the-art technology</li>
+</ul>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=haikalfachri&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&hide_title=true)
