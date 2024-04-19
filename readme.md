@@ -4,7 +4,7 @@
 <ul>
   <li>🎓 I'm currently a final year of informatics / computer science student at Telkom University</li>
   <li>🔭 I have interest in backend development and machine learning</li>
-  <li>🧑🏻‍💻 I'm looking forward to learn more about any State-of-the-art technology</li>
+  <li>🧑🏻‍💻 I'm looking forward to learn more about any state-of-the-art technology</li>
 </ul>
 
 
