@@ -2,7 +2,7 @@
 <!-- ![hklfach's GitHub stats](https://github-readme-stats.vercel.app/api?username=hklfach&show_icons=true&hide_title=true&include_all_commits=true&bg_color=00000000) -->
 <h3 align="start">Hi there👋, I'm Muhamad Fachri Haikal</h3>
 <ul>
-  <li>🎓 I'm currently a fresh grad of informatics / computer science student at Telkom University</li>
+  <li>🎓 I'm currently a fresh grad of informatics / computer science at Telkom University</li>
   <li>🔭 I have interest in backend development and machine learning</li>
   <li>🧑🏻‍💻 I'm looking forward to learn more about any state-of-the-art technology</li>
 </ul>
