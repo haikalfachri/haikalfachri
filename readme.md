@@ -14,27 +14,40 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=haikalfachri&hide_border=false&theme=transparent)
 
 ## 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### Languages
+![Go](https://skillicons.dev/icons?i=go&theme=dark)
+![Python](https://skillicons.dev/icons?i=py&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)
+![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![PHP](https://skillicons.dev/icons?i=php&theme=dark)
+![C++](https://skillicons.dev/icons?i=cpp&theme=dark) 
+
+### Web Development
+![Express.js](https://skillicons.dev/icons?i=express&theme=dark)
+![Nest.js](https://skillicons.dev/icons?i=nestjs&theme=dark)
+![Laravel](https://skillicons.dev/icons?i=laravel&theme=dark)
+![Kafka](https://skillicons.dev/icons?i=kafka&theme=dark)
+
+### Databases
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Postgres](https://skillicons.dev/icons?i=postgres&theme=dark)
+
+### Cloud & DevOps
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+
+### ML & Data Science
+![scikit-learn](https://skillicons.dev/icons?i=sklearn&theme=dark)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow&theme=dark) 
+
+### Tools
+![GIT](https://skillicons.dev/icons?i=git&theme=dark)
+![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
+![Figma](https://skillicons.dev/icons?i=figma&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
+
 
 [![](https://visitcount.itsvg.in/api?id=haikalfachri&icon=0&color=0)](https://visitcount.itsvg.in)
 
